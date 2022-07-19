@@ -1,0 +1,850 @@
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\appsettings.json
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\ChatAppV.0.0.2.Api.exe
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\ChatAppV.0.0.2.Api.deps.json
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\ChatAppV.0.0.2.Api.runtimeconfig.json
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\ChatAppV.0.0.2.Api.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\ChatAppV.0.0.2.Api.pdb
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\MessagePack.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\Microsoft.Build.Locator.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\NuGet.Common.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\runtimes\win-arm\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\runtimes\win-arm64\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\ChatAppV.0.0.2.Core.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\ChatAppV.0.0.2.Core.pdb
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\obj\Debug\net6.0\ChatAppV.0.0.2.Api.csproj.AssemblyReference.cache
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\obj\Debug\net6.0\ChatAppV.0.0.2.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\obj\Debug\net6.0\ChatAppV.0.0.2.Api.AssemblyInfoInputs.cache
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\obj\Debug\net6.0\ChatAppV.0.0.2.Api.AssemblyInfo.cs
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\obj\Debug\net6.0\ChatAppV.0.0.2.Api.csproj.CoreCompileInputs.cache
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\obj\Debug\net6.0\ChatAppV.0.0.2.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\obj\Debug\net6.0\ChatAppV.0.0.2.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\obj\Debug\net6.0\scopedcss\bundle\ChatAppV.0.0.2.Api.styles.css
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\obj\Debug\net6.0\ChatAppV.0.0.2.Api.csproj.CopyComplete
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\obj\Debug\net6.0\ChatAppV.0.0.2.Api.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\obj\Debug\net6.0\refint\ChatAppV.0.0.2.Api.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\obj\Debug\net6.0\ChatAppV.0.0.2.Api.pdb
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\obj\Debug\net6.0\ChatAppV.0.0.2.Api.genruntimeconfig.cache
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\obj\Debug\net6.0\ref\ChatAppV.0.0.2.Api.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\EntityFramework.SqlServer.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\EntityFramework.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\ChatAppV.0.0.2.EF.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\ChatAppV.0.0.2.EF.pdb
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\ChatAppV.0.0.2.Integration.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\ChatAppV.0.0.2.Integration.pdb
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\appsettings.Development.json
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\appsettings.json
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\ChatAppV.0.0.2.Api.exe
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\ChatAppV.0.0.2.Api.deps.json
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\ChatAppV.0.0.2.Api.runtimeconfig.json
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\ChatAppV.0.0.2.Api.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\ChatAppV.0.0.2.Api.pdb
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\AutoMapper.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\EntityFramework.SqlServer.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\EntityFramework.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\Humanizer.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\MessagePack.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\MessagePack.Annotations.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\Microsoft.Build.Locator.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\NuGet.Common.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\NuGet.Configuration.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\NuGet.Frameworks.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\NuGet.LibraryModel.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\NuGet.Packaging.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\NuGet.ProjectModel.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\NuGet.Protocol.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\NuGet.Versioning.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\System.CodeDom.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\System.Composition.Convention.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\System.Composition.Hosting.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\System.Composition.Runtime.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\System.Composition.TypedParts.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\System.Data.SqlClient.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\runtimes\win-arm\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\runtimes\win-arm64\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\ChatAppV.0.0.2.Core.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\ChatAppV.0.0.2.EF.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\ChatAppV.0.0.2.Integration.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\ChatAppV.0.0.2.Core.pdb
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\ChatAppV.0.0.2.EF.pdb
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\ChatAppV.0.0.2.Integration.pdb
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\obj\Debug\net6.0\ChatAppV.0.0.2.Api.csproj.AssemblyReference.cache
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\obj\Debug\net6.0\ChatAppV.0.0.2.Api.GeneratedMSBuildEditorConfig.editorconfig
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\obj\Debug\net6.0\ChatAppV.0.0.2.Api.AssemblyInfoInputs.cache
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\obj\Debug\net6.0\ChatAppV.0.0.2.Api.AssemblyInfo.cs
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\obj\Debug\net6.0\ChatAppV.0.0.2.Api.csproj.CoreCompileInputs.cache
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\obj\Debug\net6.0\ChatAppV.0.0.2.Api.MvcApplicationPartsAssemblyInfo.cs
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\obj\Debug\net6.0\ChatAppV.0.0.2.Api.MvcApplicationPartsAssemblyInfo.cache
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\obj\Debug\net6.0\staticwebassets.build.json
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\obj\Debug\net6.0\staticwebassets.development.json
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\obj\Debug\net6.0\scopedcss\bundle\ChatAppV.0.0.2.Api.styles.css
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\obj\Debug\net6.0\ChatAppV.0.0.2.Api.csproj.CopyComplete
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\obj\Debug\net6.0\ChatAppV.0.0.2.Api.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\obj\Debug\net6.0\refint\ChatAppV.0.0.2.Api.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\obj\Debug\net6.0\ChatAppV.0.0.2.Api.pdb
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\obj\Debug\net6.0\ChatAppV.0.0.2.Api.genruntimeconfig.cache
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\obj\Debug\net6.0\ref\ChatAppV.0.0.2.Api.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\obj\Debug\net6.0\ChatAppV.0.0.2.Api.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\obj\Debug\net6.0\refint\ChatAppV.0.0.2.Api.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\obj\Debug\net6.0\ChatAppV.0.0.2.Api.pdb
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\appsettings.Development.json
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\appsettings.json
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\ChatAppV.0.0.2.Api.exe
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\ChatAppV.0.0.2.Api.deps.json
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\ChatAppV.0.0.2.Api.runtimeconfig.json
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\ChatAppV.0.0.2.Api.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\ChatAppV.0.0.2.Api.pdb
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\AutoMapper.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\Humanizer.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\MessagePack.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\MessagePack.Annotations.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\Microsoft.Build.Locator.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\NuGet.Common.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\NuGet.Configuration.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\NuGet.Frameworks.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\NuGet.LibraryModel.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\NuGet.Packaging.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\NuGet.ProjectModel.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\NuGet.Protocol.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\NuGet.Versioning.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\System.Composition.Convention.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\System.Composition.Hosting.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\System.Composition.Runtime.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\System.Composition.TypedParts.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\runtimes\win-arm\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\runtimes\win-arm64\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\ChatAppV.0.0.2.Core.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\ChatAppV.0.0.2.EF.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\ChatAppV.0.0.2.Core.pdb
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\bin\Debug\net6.0\ChatAppV.0.0.2.EF.pdb
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\obj\Debug\net6.0\ChatAppV.0.0.2.Api.csproj.AssemblyReference.cache
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\obj\Debug\net6.0\ChatAppV.0.0.2.Api.GeneratedMSBuildEditorConfig.editorconfig
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\obj\Debug\net6.0\ChatAppV.0.0.2.Api.AssemblyInfoInputs.cache
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\obj\Debug\net6.0\ChatAppV.0.0.2.Api.AssemblyInfo.cs
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\obj\Debug\net6.0\ChatAppV.0.0.2.Api.csproj.CoreCompileInputs.cache
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\obj\Debug\net6.0\ChatAppV.0.0.2.Api.MvcApplicationPartsAssemblyInfo.cs
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\obj\Debug\net6.0\ChatAppV.0.0.2.Api.MvcApplicationPartsAssemblyInfo.cache
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\obj\Debug\net6.0\staticwebassets.build.json
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\obj\Debug\net6.0\staticwebassets.development.json
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\obj\Debug\net6.0\scopedcss\bundle\ChatAppV.0.0.2.Api.styles.css
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\obj\Debug\net6.0\ChatAppV.0.0.2.Api.csproj.CopyComplete
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\obj\Debug\net6.0\ChatAppV.0.0.2.Api.genruntimeconfig.cache
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Api\obj\Debug\net6.0\ref\ChatAppV.0.0.2.Api.dll

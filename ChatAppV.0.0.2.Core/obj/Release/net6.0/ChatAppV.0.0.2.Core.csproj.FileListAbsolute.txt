@@ -1,0 +1,40 @@
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Core\bin\Release\net6.0\ChatAppV.0.0.2.Core.deps.json
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Core\bin\Release\net6.0\ChatAppV.0.0.2.Core.runtimeconfig.json
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Core\bin\Release\net6.0\ChatAppV.0.0.2.Core.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Core\bin\Release\net6.0\ChatAppV.0.0.2.Core.pdb
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Core\obj\Release\net6.0\ChatAppV.0.0.2.Core.csproj.AssemblyReference.cache
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Core\obj\Release\net6.0\ChatAppV.0.0.2.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Core\obj\Release\net6.0\ChatAppV.0.0.2.Core.AssemblyInfoInputs.cache
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Core\obj\Release\net6.0\ChatAppV.0.0.2.Core.AssemblyInfo.cs
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Core\obj\Release\net6.0\ChatAppV.0.0.2.Core.csproj.CoreCompileInputs.cache
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Core\obj\Release\net6.0\ChatAppV.0.0.2.Core.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Core\obj\Release\net6.0\refint\ChatAppV.0.0.2.Core.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Core\obj\Release\net6.0\ChatAppV.0.0.2.Core.pdb
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Core\obj\Release\net6.0\ChatAppV.0.0.2.Core.genruntimeconfig.cache
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Core\obj\Release\net6.0\ref\ChatAppV.0.0.2.Core.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Core\bin\Release\net6.0\ChatAppV.0.0.2.Core.deps.json
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Core\bin\Release\net6.0\ChatAppV.0.0.2.Core.runtimeconfig.json
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Core\bin\Release\net6.0\ChatAppV.0.0.2.Core.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Core\bin\Release\net6.0\ChatAppV.0.0.2.Core.pdb
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Core\obj\Release\net6.0\ChatAppV.0.0.2.Core.csproj.AssemblyReference.cache
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Core\obj\Release\net6.0\ChatAppV.0.0.2.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Core\obj\Release\net6.0\ChatAppV.0.0.2.Core.AssemblyInfoInputs.cache
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Core\obj\Release\net6.0\ChatAppV.0.0.2.Core.AssemblyInfo.cs
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Core\obj\Release\net6.0\ChatAppV.0.0.2.Core.csproj.CoreCompileInputs.cache
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Core\obj\Release\net6.0\ChatAppV.0.0.2.Core.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Core\obj\Release\net6.0\refint\ChatAppV.0.0.2.Core.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Core\obj\Release\net6.0\ChatAppV.0.0.2.Core.pdb
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Core\obj\Release\net6.0\ChatAppV.0.0.2.Core.genruntimeconfig.cache
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Core\obj\Release\net6.0\ref\ChatAppV.0.0.2.Core.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Core\bin\Release\net6.0\ChatAppV.0.0.2.Core.deps.json
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Core\bin\Release\net6.0\ChatAppV.0.0.2.Core.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Core\bin\Release\net6.0\ChatAppV.0.0.2.Core.pdb
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Core\obj\Release\net6.0\ChatAppV.0.0.2.Core.csproj.AssemblyReference.cache
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Core\obj\Release\net6.0\ChatAppV.0.0.2.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Core\obj\Release\net6.0\ChatAppV.0.0.2.Core.AssemblyInfoInputs.cache
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Core\obj\Release\net6.0\ChatAppV.0.0.2.Core.AssemblyInfo.cs
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Core\obj\Release\net6.0\ChatAppV.0.0.2.Core.csproj.CoreCompileInputs.cache
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Core\obj\Release\net6.0\ChatAppV.0.0.2.Core.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Core\obj\Release\net6.0\refint\ChatAppV.0.0.2.Core.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Core\obj\Release\net6.0\ChatAppV.0.0.2.Core.pdb
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.Core\obj\Release\net6.0\ref\ChatAppV.0.0.2.Core.dll

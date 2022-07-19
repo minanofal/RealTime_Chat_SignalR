@@ -1,0 +1,51 @@
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.EF\bin\Debug\net6.0\ChatAppV.0.0.2.EF.deps.json
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.EF\bin\Debug\net6.0\ChatAppV.0.0.2.EF.runtimeconfig.json
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.EF\bin\Debug\net6.0\ChatAppV.0.0.2.EF.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.EF\bin\Debug\net6.0\ChatAppV.0.0.2.EF.pdb
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.EF\bin\Debug\net6.0\ChatAppV.0.0.2.Core.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.EF\bin\Debug\net6.0\ChatAppV.0.0.2.Core.pdb
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.EF\obj\Debug\net6.0\ChatAppV.0.0.2.EF.csproj.AssemblyReference.cache
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.EF\obj\Debug\net6.0\ChatAppV.0.0.2.EF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.EF\obj\Debug\net6.0\ChatAppV.0.0.2.EF.AssemblyInfoInputs.cache
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.EF\obj\Debug\net6.0\ChatAppV.0.0.2.EF.AssemblyInfo.cs
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.EF\obj\Debug\net6.0\ChatAppV.0.0.2.EF.csproj.CoreCompileInputs.cache
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.EF\obj\Debug\net6.0\ChatAppV.0.0.2.EF.csproj.CopyComplete
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.EF\obj\Debug\net6.0\ChatAppV.0.0.2.EF.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.EF\obj\Debug\net6.0\refint\ChatAppV.0.0.2.EF.dll
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.EF\obj\Debug\net6.0\ChatAppV.0.0.2.EF.pdb
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.EF\obj\Debug\net6.0\ChatAppV.0.0.2.EF.genruntimeconfig.cache
+C:\Users\Kimo Store\Desktop\DataStructure\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.EF\obj\Debug\net6.0\ref\ChatAppV.0.0.2.EF.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.EF\bin\Debug\net6.0\ChatAppV.0.0.2.EF.deps.json
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.EF\bin\Debug\net6.0\ChatAppV.0.0.2.EF.runtimeconfig.json
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.EF\bin\Debug\net6.0\ChatAppV.0.0.2.EF.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.EF\bin\Debug\net6.0\ChatAppV.0.0.2.EF.pdb
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.EF\bin\Debug\net6.0\ChatAppV.0.0.2.Core.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.EF\bin\Debug\net6.0\ChatAppV.0.0.2.Core.pdb
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.EF\obj\Debug\net6.0\ChatAppV.0.0.2.EF.csproj.AssemblyReference.cache
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.EF\obj\Debug\net6.0\ChatAppV.0.0.2.EF.GeneratedMSBuildEditorConfig.editorconfig
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.EF\obj\Debug\net6.0\ChatAppV.0.0.2.EF.AssemblyInfoInputs.cache
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.EF\obj\Debug\net6.0\ChatAppV.0.0.2.EF.AssemblyInfo.cs
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.EF\obj\Debug\net6.0\ChatAppV.0.0.2.EF.csproj.CoreCompileInputs.cache
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.EF\obj\Debug\net6.0\ChatAppV.0.0.2.EF.csproj.CopyComplete
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.EF\obj\Debug\net6.0\ChatAppV.0.0.2.EF.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.EF\obj\Debug\net6.0\refint\ChatAppV.0.0.2.EF.dll
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.EF\obj\Debug\net6.0\ChatAppV.0.0.2.EF.pdb
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.EF\obj\Debug\net6.0\ChatAppV.0.0.2.EF.genruntimeconfig.cache
+E:\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.EF\obj\Debug\net6.0\ref\ChatAppV.0.0.2.EF.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.EF\obj\Debug\net6.0\ChatAppV.0.0.2.EF.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.EF\obj\Debug\net6.0\refint\ChatAppV.0.0.2.EF.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.EF\obj\Debug\net6.0\ChatAppV.0.0.2.EF.pdb
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.EF\bin\Debug\net6.0\ChatAppV.0.0.2.EF.deps.json
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.EF\bin\Debug\net6.0\ChatAppV.0.0.2.EF.runtimeconfig.json
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.EF\bin\Debug\net6.0\ChatAppV.0.0.2.EF.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.EF\bin\Debug\net6.0\ChatAppV.0.0.2.EF.pdb
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.EF\bin\Debug\net6.0\ChatAppV.0.0.2.Core.dll
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.EF\bin\Debug\net6.0\ChatAppV.0.0.2.Core.pdb
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.EF\obj\Debug\net6.0\ChatAppV.0.0.2.EF.csproj.AssemblyReference.cache
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.EF\obj\Debug\net6.0\ChatAppV.0.0.2.EF.GeneratedMSBuildEditorConfig.editorconfig
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.EF\obj\Debug\net6.0\ChatAppV.0.0.2.EF.AssemblyInfoInputs.cache
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.EF\obj\Debug\net6.0\ChatAppV.0.0.2.EF.AssemblyInfo.cs
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.EF\obj\Debug\net6.0\ChatAppV.0.0.2.EF.csproj.CoreCompileInputs.cache
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.EF\obj\Debug\net6.0\ChatAppV.0.0.2.EF.csproj.CopyComplete
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.EF\obj\Debug\net6.0\ChatAppV.0.0.2.EF.genruntimeconfig.cache
+E:\copies\ChatAppV.0.0.2.Server\ChatAppV.0.0.2.EF\obj\Debug\net6.0\ref\ChatAppV.0.0.2.EF.dll

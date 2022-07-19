@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "F5kKDCCChodgNtDra5Eo6qKnzFDxXHbtKYt0GbDdo/M=",
+  "Source": "ChatAppV.0.0.2.Api",
+  "BasePath": "_content/ChatAppV.0.0.2.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
